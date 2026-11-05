@@ -1,8 +1,8 @@
-# Hi, I'm Abood 👋
+# Abood Awaida
 
-Student at the **University of Toronto Mississauga**. I build products that real people use, and I care about the parts most side projects skip: tests, security, privacy and honest measurement.
+Student at the **University of Toronto Mississauga** building full-stack web apps, machine learning projects and native macOS software. I focus on what makes software dependable: automated tests, security enforced on the server and in the database, privacy by default, and accuracy measured on held-out data.
 
-**Open to software engineering roles.** [LinkedIn](https://www.linkedin.com/in/abood-awaida/)
+[LinkedIn](https://www.linkedin.com/in/abood-awaida/)
 
 ## Projects
 
